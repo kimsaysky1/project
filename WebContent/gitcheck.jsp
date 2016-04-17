@@ -7,5 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
+	<li>푸쉬</li>
 </body>
 </html>
