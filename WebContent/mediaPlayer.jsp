@@ -433,10 +433,9 @@ window.onload = function() {
 	var pl = $(".pl");
 	seekBar.on('input', function() {
 		var time = video.duration * (seekBar.val() / 100);
-		//video.currentTime = time;
+		video.currentTime = time;
 		
 		
-		gdgd
 	});
 	seekBarWrapper.mousedown(function() {
 		video.pause();
