@@ -436,7 +436,7 @@ window.onload = function() {
 		//video.currentTime = time;
 		
 		
-		
+		gdgd
 	});
 	seekBarWrapper.mousedown(function() {
 		video.pause();
