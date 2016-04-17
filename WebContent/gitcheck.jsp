@@ -7,6 +7,5 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>dasf</h1>
 </body>
 </html>
